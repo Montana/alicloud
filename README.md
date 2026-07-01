@@ -1,5 +1,8 @@
 # alix
 
+<img width="1254" height="1254" alt="alicloud" src="https://github.com/user-attachments/assets/dce15da9-545e-4b34-837d-f5dbaaf03441" />
+
+
 A simple command-line tool for Alibaba Cloud. Manage ECS servers, OSS storage, and DNS records with short commands.
 
 ## Installation
