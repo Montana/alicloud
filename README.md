@@ -9,6 +9,11 @@ I made this generally for the purpose of shortening the structure for a plugin-b
 ```bash
 aliyun <command> <sub-command> [parameters]
 ```
+So let's say I wanted to describe my live instances, I'd hve to run:
+
+```bash
+aliyun ecs describe-instances
+```
 ## Installation
 
 ```bash
