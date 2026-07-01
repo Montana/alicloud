@@ -17,6 +17,9 @@ Run the interactive setup once:
 ```bash
 python alix.py config
 ```
+Here's a GIF showing you: 
+
+<img width="730" height="604" alt="alix-demo" src="https://github.com/user-attachments/assets/ba23811f-fa07-498b-8218-200f45253981" />
 
 This stores your AccessKey in `~/.alix/config.json` with restricted file permissions. You can create an AccessKey in the Alibaba Cloud RAM console under Users > your user > AccessKeys.
 
