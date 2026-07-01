@@ -4,6 +4,11 @@
 
 <br>A simple command-line tool for Alibaba Cloud. Manage ECS servers, OSS storage, and DNS records with short commands.</br>
 
+I made this generally for the purpose of shortening the structure for a plugin-based Alibaba Cloud CLI, and to run anything in AliCloud goes as follows:
+
+```bash
+aliyun <command> <sub-command> [parameters]
+```
 ## Installation
 
 ```bash
