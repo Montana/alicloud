@@ -76,6 +76,3 @@ python alix.py oss up -h
 - Python 3.8 or later
 - Dependencies are loaded lazily: you only need the packages for the services you actually use (`oss2` for OSS, `alibabacloud_ecs20140526` for ECS, `alibabacloud_alidns20150109` for DNS)
 
-## License
-
-MIT
